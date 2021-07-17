@@ -123,7 +123,7 @@ def select(driver):
 
 	while user_select > len(insta_list) or user_select == 0:
 
-		print(f'{RED}resposta invalida{RESET}\n')
+		print(f'{RED}resposta invalida \n')
 		
 		user_select = int (input('digite uma das opção: '))
 	login_insta(driver , insta_list , user_select)
