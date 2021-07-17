@@ -21,21 +21,21 @@
 #### os proximos passos são Fáceis , o bot vai te dar algumas opções você seleciona com S/N.
 
 
-### Notas da versão : 1.0
+### Notas da versão  1.0 :
 
-Tarefas de seguir : SIM <br>
-Tarefas de curtir : SIM <br>
-Intervalo personalizado : NÃO <br>
-Buscar por novas Tarefas : SIM <br>
-Troca de perfil : NÃO <br>
-Tarefas tiktok : NÃO <br>
+- Tarefas de seguir : SIM <br>
+- Tarefas de curtir : SIM <br>
+- Intervalo personalizado : NÃO <br>
+- Buscar por novas Tarefas : SIM <br>
+- Troca de perfil : NÃO <br>
+- Tarefas tiktok : NÃO <br>
 
 ### Requisitos :
 
-Python 3. <br>
-Google chrome atualizado. <br>
-Conta na plataforma dizu. <br>
-Conta na rede social instagram. <br>
-Selenium Python. <br>
+- Python 3. <br>
+- Google chrome atualizado. <br>
+- Conta na plataforma dizu. <br>
+- Conta na rede social instagram. <br>
+- Selenium Python. <br>
 
 #### OBS : ESSE BOT TEM SUPORTE APENAS A DISTRIBUIÇÕES LINUX , CASO QUEIRA TENTAR RODAR EM WINDOWS FAÇA DOWNLOAD DO WEBDRIVER MANAGER PARA WINDOWS PORÉM NÃO GARANTO QUE VAI RODAR NESSE SISTEMA OPERACIONAL.
