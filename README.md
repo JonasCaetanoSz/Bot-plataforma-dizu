@@ -33,4 +33,4 @@ Se seu perfil estiver sofrendo bloqueio temporário será necessario apagar os c
 
 Este software está distribuido sobre a licença <a href='https://github.com/JonasCaetanoSz/Bot-plataforma-dizu/blob/main/LICENSE' target="_blank" > MIT </a>
 
-## :anchor: Versão 1.2.0
+## :anchor: Versão 1.1.2
