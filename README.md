@@ -1,41 +1,36 @@
 
-## Como usar?
+## 🚀 Instalando
 
-### Para começar clone Esse Repositorio com git usando :
+    python3 main.py
+    
+## Requisitos
 
-    git clone https://github.com/JonasCaetanoSz/Bot-dizu-terminal.git
+- Python >= 3x
+- Sistema operacional baseado em ubuntu (Mint, Zorin OS , Kubuntu é etc..)
+- <a href='https://www.google.com/intl/pt-BR/chrome/'> Chrome </a>
+- <a href='https://selenium-python.readthedocs.io/installation.html'> Selenium </a>
+- <a href='https://docs.python.org/pt-br/3/library/pickle.html#module-pickle'> Pickle </a>
 
-### após clonar acesse a pasta do programa abra com terminal é digite o comando :
- 
- 
-                        python3 main.py
+## 📚 Utilizando 
 
+Ao utilizar pela primeira será necessario informar os seus dados de login do dizu é também do instagram, esses dados não serão salvos apenas os cookies de sessão são salvos para quando usar novamente não seja necessario o informá-lós.
 
- ![Captura de tela_2021-07-16_18-00-54](https://user-images.githubusercontent.com/86696196/126008093-8436927f-f611-471c-9bb8-eb115cd44c52.png)
+## :hand: Bloqueio temporário
 
+Se seu perfil estiver sofrendo bloqueio temporário será necessario apagar os cookies de sessão , para isso :
 
-### Se tudo correr certo , os campos para inserir dados de login Aparecerá :
+- abra a pasta do bot é clique na pasta "Cache" 
+- localize a pasta instagram é busque por um arquivo que siga esse padrão : "NOMEDOPERFIL.pkl"
+- ao encotrar delete o mesmo é aguarde 60 Min para voltar realizar tarefas.
 
-![Captura de tela_2021-07-16_17-57-56](https://user-images.githubusercontent.com/86696196/126007850-6e22c032-aacb-4a3a-abb6-cf9d8dacacf7.png)
+## :ok_man: Bugs registrados
 
-#### os proximos passos são Fáceis , o bot vai te dar algumas opções você seleciona com S/N.
+- não existe tratamento de error caso passe no input um valor maior que o Nº  de perfis na dizu.
+- sem cookie do instagram salvo o bot consegue fazer login no rede social apenas se o browser não estiver oculto.
+- não identifica bloqueios é nem perfis privados. (Não é Bug ,é preciso implementar isto.)
 
+## 📝 Licença
 
-### Notas da versão  1.0 :
+Este software está distribuido sobre a licença <a href='https://github.com/JonasCaetanoSz/Bot-plataforma-dizu/blob/main/LICENSE' target="_blank" > MIT </a>
 
-- Tarefas de seguir : SIM <br>
-- Tarefas de curtir : SIM <br>
-- Intervalo personalizado : NÃO <br>
-- Buscar por novas Tarefas : SIM <br>
-- Troca de perfil : NÃO <br>
-- Tarefas tiktok : NÃO <br>
-
-### Requisitos :
-
-- Python 3. <br>
-- Google chrome atualizado. <br>
-- Conta na plataforma dizu. <br>
-- Conta na rede social instagram. <br>
-- Selenium Python. <br>
-
-#### OBS : ESSE BOT TEM SUPORTE APENAS A DISTRIBUIÇÕES LINUX , CASO QUEIRA TENTAR RODAR EM WINDOWS FAÇA DOWNLOAD DO WEBDRIVER MANAGER PARA WINDOWS PORÉM NÃO GARANTO QUE VAI RODAR NESSE SISTEMA OPERACIONAL.
+## :anchor: Versão 1.2.0
