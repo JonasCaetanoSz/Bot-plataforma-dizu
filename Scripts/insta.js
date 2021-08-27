@@ -1,28 +1,42 @@
-// FOR THE TASKS TO FOLLOW.
+function like_photo_or_video(){
 
-let buttons = document.querySelectorAll('button');
-let times = 0;
+  if (window.location.pathname.indexOf('/p/') > -1){
 
-for (button of buttons){
+     document.querySelector('article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button').click();
+   }
 
-	if(button.textContent == 'Seguir'){
+  else{
 
-		button.click();
-		break;
-	}
+    follow_profile();
+  }};
 
 
-	else if(times == 4){
-  
-  // LIKE BUTTON CLICK
-		document.querySelector('article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button').click();
-		break;
-	}
 
-else {
+function follow_profile(){
 
-	console.log('No is the button of follow.');
-	times++;
-}
+for (button of document.querySelectorAll('button')){
 
-	};
+  if (button.textContent == 'Seguir'){
+
+    button.click();
+    break;
+    
+
+}}};
+
+
+if (window.location.host == 'www.instagram.com'){
+
+    setTimeout(function init(){
+
+      like_photo_or_video();
+
+      } , 6 * 1000 )
+
+    setTimeout(function close_page(){
+
+      window.close();
+
+       } , 13 * 1000)
+
+          };
