@@ -1,7 +1,7 @@
 
-# ⚠️ AVISO :
+## ❕ AVISO IMPORTANTE :
 
-### a plataforma dizu realizou no dia 18/09/21 uma atualização interna que gerou erros nesta automoção, por este motivo uma nova versão esta sendo desenvolvida é em breve estará disponível novamente junto com a correção dos bugs gerados após a atualização deles é também com correção de bugs já registrados antes.
+### a <a href="https://dizu.com.br">dizu </a> realizou no dia 18/09/21 uma atualização interna que gerou erros nesta automoção e por este motivo estou descontinuado esse projeto, agradeço a compreensão. 
 
 
 ## 🚀 Instalando
