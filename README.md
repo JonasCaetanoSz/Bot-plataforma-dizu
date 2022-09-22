@@ -1,9 +1,3 @@
-
-## ❕ AVISO :
-
-### a <a href="https://dizu.com.br">dizu </a> realizou no dia 18/09/21 uma atualização interna que gerou erros nesta automoção e por este motivo estou descontinuado esse projeto, agradeço a compreensão. 
-
-
 ## 🚀 Instalando
 
     python3 main.py
